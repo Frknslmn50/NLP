@@ -4,3 +4,4 @@
 - Spacy vs NLTK
 - Tokenization
 - NLP Pipeline in Pre-trained Spacy models
+- Stemming and Tokenization (NLTK, Spacy)
