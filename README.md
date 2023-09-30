@@ -5,3 +5,4 @@
 - Tokenization
 - NLP Pipeline in Pre-trained Spacy models
 - Stemming and Tokenization (NLTK, Spacy)
+- Basic Spam Classifier constructed on BERT model
