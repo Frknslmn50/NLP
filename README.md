@@ -5,4 +5,5 @@
 - Tokenization
 - NLP Pipeline in Pre-trained Spacy models
 - Stemming and Tokenization (NLTK, Spacy)
+- Part of Speech Tagging
 - Basic Spam Classifier constructed on BERT model
