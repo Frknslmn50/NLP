@@ -5,6 +5,7 @@
 - NLP Pipeline in Pre-trained Spacy models
 - Stemming and Tokenization (NLTK, Spacy)
 - Part of Speech Tagging
+- Stop Word Removal
 - Bag of Words
 - Movie Review Classifier using Bag of Words
 - Word Embeddings: Supervised embedding, Word2Vec, GLoVe pre-trained embedding
