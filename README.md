@@ -7,7 +7,10 @@
 - Part of Speech Tagging
 - Stop Word Removal
 - Bag of Words
-- Movie Review Classifier using Bag of Words
+- N-grams
+- TF-IDF
+- Movie Review Classifier using Bag of Words Representation
+- Spam Classifier using Bag of Words Representation
+- E-commerce Item Category Classifier using TF-IDF
 - Word Embeddings: Supervised embedding, Word2Vec, GLoVe pre-trained embedding
 - Basic Spam Classifier constructed on BERT model
-  
